@@ -46,95 +46,226 @@ const content = {
 
   luk10Cards: [
     {
-      tag: "Beginsituatie",
-      title: "Betrokken, maar zoekend naar stabiliteit",
-      text: "Mijn kracht lag in betrokkenheid, coachend vermogen en het willen helpen van leerlingen. Tegelijkertijd moest ik mijn handelen stabieler maken in consequent handelen, korte instructie en overzicht houden."
+        "tag": "Beginsituatie",
+        "title": "Betrokken, maar zoekend naar stabiliteit",
+        "text": "Mijn kracht lag in betrokkenheid en het willen helpen van leerlingen. Tegelijkertijd moest ik zekerder worden in het ontvangen van feedback en stabieler in consequent handelen, korte instructie en overzicht."
     },
     {
-      tag: "Ontwikkeldoel",
-      title: "Consequent handelen",
-      text: "Ik wilde gedrag concreter benoemen, verwachtingen duidelijker uitspreken en bij herhaling een passende consequentie verbinden aan regels en afspraken."
+        "tag": "Ontwikkeldoel",
+        "title": "Consequent handelen",
+        "text": "Ik wilde verwachtingen duidelijker uitspreken, vaker preventief handelen en passende consequenties verbinden aan regels. Uit stagefeedback bleek dat mijn optreden in de les na een gesprek op 8 december 2025 duidelijker en consequenter was."
     },
     {
-      tag: "Ontwikkeldoel",
-      title: "Korte en duidelijke instructie",
-      text: "Te lange uitleg zorgde voor onrust en minder beweegtijd. Daarom ben ik gaan werken met kortere uitleg, duidelijke voorbeelden en gerichte controlevragen."
+        "tag": "Ontwikkeldoel",
+        "title": "Korte, doelgerichte instructie",
+        "text": "Ik leerde korter uit te leggen, succescriteria duidelijker te benoemen en gerichte controlevragen te stellen. Feedback liet zien dat een korte uitleg pas werkt wanneer leerlingen ook het lesdoel kennen."
     },
     {
-      tag: "Ontwikkeldoel",
-      title: "Wisselmomenten doelgericht gebruiken",
-      text: "Ik leerde dat wisselmomenten niet te breed moeten worden. Door één of twee punten te kiezen die aansluiten bij het lesdoel, worden deze momenten sterker en leergerichter."
+        "tag": "Ontwikkeldoel",
+        "title": "Zelfstandige vakken, echt zelfstandig",
+        "text": "Bij het drie-vakkensysteem merkte ik dat onvoldoende zelfstandige vakken mijn aandacht bij de instructiekern weghaalden. Ik wil daarom bewust twee bekende activiteiten kiezen die leerlingen zonder voortdurende begeleiding aankunnen."
     },
     {
-      tag: "Ontwikkeldoel",
-      title: "Professionele rust",
-      text: "Mijn betrokkenheid mag niet omslaan in frustratie of controle. Door uit te stappen, te observeren en daarna pas te handelen, ontwikkelde ik meer rust in mijn lesgeven."
+        "tag": "Ontwikkeldoel",
+        "title": "Professionele rust en samenwerking",
+        "text": "Ik probeer eerst te kijken wat een situatie vraagt en daarna gericht te handelen. Ook leerde ik dat professioneel werken niet betekent dat ik alles alleen moet kunnen: luisteren, hulp vragen en samenwerken horen erbij."
     },
     {
-      tag: "Profilering",
-      title: "Pedagogisch betrokken vakleerkracht",
-      text: "Ik profileer mij als een betrokken en duidelijke vakleerkracht LO die leerlingen wil helpen vertrouwen te ontwikkelen in hun eigen beweegvaardigheid."
+        "tag": "Profilering",
+        "title": "Vertrouwen als basis voor bewegen",
+        "text": "Als docent en VDZ-trainer wil ik dat leerlingen kunnen proberen zonder angst om fouten te maken. Doorzettingsvermogen, gevoeligheid en maatschappelijke betrokkenheid kenmerken de manier waarop ik kinderen wil begeleiden."
     }
-  ],
+],
 
   timeline: [
     {
-      period: "September / oktober",
-      title: "Veilige en passende activiteiten organiseren",
-      text: "Ik was vooral bezig met het neerzetten van duidelijke activiteiten, korte technische aanwijzingen en leren differentiëren binnen activiteiten."
+        "period": "Start ALO · propedeuse",
+        "title": "Enthousiast, maar ook onzeker",
+        "text": "Ik begon aan de ALO omdat sporten mij plezier en energie geeft en ik dat graag aan anderen wil overbrengen. Ik ging uitdagingen aan en kon zelfverzekerd overkomen, maar was van binnen onzeker. Feedback nam ik nog te selectief aan: vooral wat aansloot bij mijn eigen kijk."
     },
     {
-      period: "November / december",
-      title: "Spelbeleving en positief gedrag",
-      text: "Ik leerde spelbeleving, rollen en positieve bekrachtiging bewuster in te zetten. Mijn aandacht verschoof van alleen corrigeren naar ook gewenst gedrag versterken."
+        "period": "Leerjaar 2 · eerdere ALO-jaren",
+        "title": "Een andere kijk op leren",
+        "text": "Tijdens mijn tweede studiejaar maakte ik een moeilijke periode door, waardoor mijn opleiding tijdelijk op een lager pitje kwam te staan. Toen ik de studie weer volledig oppakte, keek ik anders naar mezelf, de opleiding en het belang van hulp, geduld en feedback."
     },
     {
-      period: "Januari / februari",
-      title: "Terug naar de basis",
-      text: "Ik werkte aan een rustige lesstart, duidelijke verwachtingen, consequent handelen, preventief handelen, korte uitleg en het benoemen van het lesdoel."
+        "period": "Hoofdfase · stage en VDZ",
+        "title": "Ruimte geven om te durven proberen",
+        "text": "In stages en als voetbaltrainer bij VDZ merkte ik hoe kinderen kunnen groeien wanneer ze vertrouwen krijgen en mogen proberen. Ik ging bewuster letten op succeservaringen, verschillen in niveau en de relatie met leerlingen."
     },
     {
-      period: "Maart",
-      title: "Time management",
-      text: "Ik ging bewuster werken met mijn horloge, een uitleg van ongeveer 7 minuten, rondes van 8 tot 10 minuten en korte wisselmomenten."
+        "period": "Begin afstudeerjaar",
+        "title": "Veel willen, onvoldoende overzicht",
+        "text": "Aan het begin van het AP vond ik het lastig om bewust aan kleine ontwikkeldoelen te werken. Ook buiten de studie vroeg het dagelijks leven veel aanpassing. Ik was vooral bezig met alles draaiende houden, waardoor mijn ontwikkelpunten vaak terugkwamen."
     },
     {
-      period: "April",
-      title: "Uitstappen en analyseren",
-      text: "Ik werkte aan professionele rust: eerst kijken, analyseren en daarna handelen. Ook leerde ik sneller aanpassen wanneer activiteiten niet goed liepen."
+        "period": "Rond de jaarwisseling",
+        "title": "Bewust een andere aanpak kiezen",
+        "text": "Ik besloot de draad weer op te pakken en bewuster te werken aan kleinere, haalbare doelen. Feedback werd voor mij een hulpmiddel om steeds één stap in mijn handelen te verbeteren in plaats van alles tegelijk te willen veranderen."
     },
     {
-      period: "Mei / einde schooljaar",
-      title: "Doelgericht coachen",
-      text: "Ik nam eerst overzicht, keek of alle vakken veilig liepen en coachte daarna gerichter bij het hoofdlesdoel. Mijn begeleiding werd meer afgestemd op individuele niveaus."
+        "period": "Derde voortgangsgesprek",
+        "title": "Stage-ervaringen als echte leermomenten",
+        "text": "Tijdens mijn derde voortgangsgesprek hoorde ik dat mijn ervaringen op stage belangrijker waren dan alleen opdrachten afronden. Dat vond ik eerst lastig. Later begreep ik: juist lessen, fouten, successen en dilemma’s vormen de ontwikkeling die ik met feedback en bewijslast inzichtelijk moet maken in eJournal."
+    },
+    {
+        "period": "Voorjaar · Gezond & Fit en PU",
+        "title": "Leren in en met een onderwijsteam",
+        "text": "De Gezond & Fit weken, Koningsspelen en het PU-onderzoek kwamen in een drukke periode samen. Ik leerde mijn stem te laten horen, verantwoordelijkheid te nemen en tegelijk inzichten en werkwijzen van andere docenten over te nemen."
     }
-  ],
+],
 
   feedback: [
     {
-      tag: "Feedbackmoment 1",
-      title: "Terug naar de basis",
-      text: "Begin februari kreeg ik terug dat het lesgeven soms te veel tegelijk werd. Ik moest terug naar de basis: waar zet ik leerlingen neer, hoe vraag ik aandacht, hoe tel ik af en hoe geef ik consequent waarschuwingen? Deze feedback zorgde ervoor dat ik mijn doel bijstelde naar basisstructuur, time management en consequent handelen."
+        "tag": "Doel → actie → feedback",
+        "title": "Consequent handelen",
+        "text": "Ik wilde voorspelbaarder optreden bij verstoringen. Ik werkte met vaste afspraken, waarschuwingen en een rustigere lesstart. Na een gesprek op 8 december 2025 zag mijn begeleidster in de volgende les duidelijker en consequenter handelen. Mijn vervolgstap is om die aanpak ook bij drukte vol te houden."
     },
     {
-      tag: "Feedbackmoment 2",
-      title: "Wisselmomenten versterken",
-      text: "Bij de les van 2 februari kreeg ik terug dat mijn lesstart rustiger was en dat mijn uitleg rond 7 minuten bleef. Tegelijkertijd miste mijn begeleider nog STROOM-aanpassingen en spotlightmomenten. Daardoor ben ik bewuster leerlingvoorbeelden gaan zoeken en wisselmomenten sterker gaan koppelen aan het lesdoel."
+        "tag": "Doel → actie → feedback",
+        "title": "Uitleg en lesdoelen",
+        "text": "Ik ging werken met korte instructies en controlevragen. Op 3 november 2025 kreeg ik terug dat mijn uitleg bij lummelen vlot ging, maar dat de beoordelingspunten duidelijker konden. Op 9 maart 2026 bleek dat ik het lesdoel bij de start nog vergat. Daarom maak ik het doel vooraf concreet en kom ik er bij wisselmomenten op terug."
+    },
+    {
+        "tag": "Doel → actie → feedback",
+        "title": "Toetsing als leerinstrument",
+        "text": "Bij LUK 3 ontdekte ik dat één totaalscore niet precies laat zien welke twee van de drie spelcriteria leerlingen beheersen. Mijn contactpersoon vond de toetsing goed, maar het afzonderlijk beoordelen doelgerichter en eerlijker. Ik ontwikkelde daarom een kijkkaart en wil leerlingen in meerdere speelrondes observeren."
+    },
+    {
+        "tag": "Voortgangsgesprek",
+        "title": "Van opdrachten naar leren op stage",
+        "text": "Tijdens mijn derde voortgangsgesprek hoorde ik dat stage-ervaringen meer zeggen over mijn ontwikkeling dan het enkel afronden van opdrachten. Eerst botste dat met mijn gevoel over eJournal. Daarna begreep ik hoe ik fouten, goede lessen en feedback kan gebruiken om mijn groei met bewijslast zichtbaar te maken."
     }
-  ],
+],
 
   future: [
-    "Na het behalen van mijn ALO-diploma zie ik mijn toekomst vooral binnen het primair onderwijs. Daar ligt mijn kracht: werken met kinderen, bijdragen aan hun ontwikkeling en ervoor zorgen dat ieder kind succes kan ervaren in bewegen.",
-    "Tegelijkertijd zie ik mezelf niet fulltime alleen als vakleerkracht bewegingsonderwijs werken. Ik wil mijn rol als beweegprofessional breder inzetten dan alleen binnen de muren van de gymzaal.",
-    "Naast het lesgeven wil ik betrokken zijn bij maatschappelijke initiatieven die kinderen meer kansen geven om te bewegen, te groeien en mee te doen. Een initiatief zoals Presikhaaf University spreekt mij aan, omdat daar onderwijs, bewegen, talentontwikkeling en kansengelijkheid samenkomen.",
-    "Daarnaast heeft mijn minor Voedings- en Beweegcoach mijn interesse in gezondheid en leefstijl versterkt. Mijn ideale werkveldrichting is daarom een combinatie van vakleerkracht bewegingsonderwijs in het primair onderwijs, maatschappelijke beweegprojecten en mogelijk een rol als voedings- en beweegcoach."
-  ],
+    "Over twee jaar wil ik werken als vakleerkracht lichamelijke opvoeding op een basisschool, bij voorkeur in de omgeving van Arnhem. Ik sta ook open voor een andere regio. Ik wil kinderen helpen plezier, zelfvertrouwen en succeservaringen in bewegen op te bouwen.",
+    "Daarnaast wil ik mijn minor Voedings- en Beweegcoach inzetten om mij te ontwikkelen in leefstijlcoaching, bij voorkeur binnen of in samenwerking met GLI-teams. Op langere termijn zou ik graag een eigen leefstijlcoachpraktijk beginnen, naast een baan als vakleerkracht LO in loondienst.",
+    "Ook maatschappelijke projecten zoals Presikhaaf University blijven mij aanspreken. Ik wil kijken hoe ik kan bijdragen aan beweegkansen en gezondheid buiten de gymzaal, zonder mijn kerntaak als docent uit het oog te verliezen."
+],
+
+  broadDevelopment: [
+    {
+        "tag": "Ontwerpen en toetsen · LUK 1 en 3",
+        "title": "Leren wat een toets écht laat zien",
+        "text": "Ik leerde mijn lessen vanuit een beginsituatie en concrete spelprincipes ontwerpen. Bij de evaluatie van groep 7a merkte ik dat één totaalscore niet voldoende zegt over vrijlopen, om de bal vragen en verdedigen. Door die beperking eerlijk te benoemen en een kijkkaart uit te werken, ben ik doelgerichter gaan denken over toetsen."
+    },
+    {
+        "tag": "Onderzoek · PU",
+        "title": "Niet alles tegelijk willen oplossen",
+        "text": "Aan het begin van mijn PU-onderzoek wilde ik een groot probleem oplossen. Pas toen ik mijn vraag afbakende, kon ik gericht informatie verzamelen en analyseren. Ik leerde dat een kleiner, zorgvuldig onderzocht onderdeel meer bruikbare antwoorden kan geven dan een veel te brede vraag."
+    },
+    {
+        "tag": "Projectorganisatie · Gezond & Fit",
+        "title": "Mijn stem laten horen",
+        "text": "Bij Gezond & Fit en de Koningsspelen vond ik het uitdagend om de leiding te blijven nemen en mijn ideeën uit te spreken. Ik heb ervaren dat samenwerken niet alleen uitvoeren betekent, maar ook initiatief nemen, afstemmen en leren van collega’s."
+    },
+    {
+        "tag": "Adviseren en implementeren · PU",
+        "title": "Resultaten kritisch vertalen",
+        "text": "Onderzoeksresultaten lijken soms meer te zeggen dan ze feitelijk doen. Door nauwkeuriger te analyseren en kritisch te reflecteren leerde ik mijn aanbevelingen te begrenzen en te vertalen naar een uitvoerbaar plan voor KC De Werf en PU."
+    },
+    {
+        "tag": "Professionele visie · LUK 9",
+        "title": "Vertrouwen geeft ruimte om te leren",
+        "text": "In mijn stages en bij VDZ werd mijn overtuiging sterker dat kinderen pas echt durven oefenen wanneer ze zich veilig voelen en succes kunnen ervaren. Duidelijkheid, geduld en ruimte om te proberen vormen voor mij de basis van goed bewegingsonderwijs."
+    }
+],
+
+  dashboardReflection: [
+    "Ik worstel al sinds het begin van de opleiding met eJournal. Ik heb behoefte aan structuur, maar vond het lastig die zelf aan te brengen. De manier van vastleggen voelde niet altijd prettig en het kostte mij moeite om overzicht te houden over doelen, opdrachten en verantwoordelijkheden.",
+    "Achteraf zie ik dat juist dit mij heeft geholpen om bewuster te plannen. Tijdens het afstudeerjaar leerde ik mijn werkweek beter in te richten en onderscheid te maken tussen een opdracht afronden en daadwerkelijk leren van wat op stage gebeurt.",
+    "Na mijn derde voortgangsgesprek begon ik beter te begrijpen dat de waarde van eJournal niet zit in steeds opnieuw beschrijven wat ik heb gedaan, maar in het onderbouwen van mijn groei met ervaringen, feedback en bewijs. Als startende docent wil ik mijn doelen klein en concreet houden en regelmatig vastleggen wat er in mijn handelen verandert."
+],
+
+  personalJourney: [
+    "Ik begon aan de ALO omdat sporten mij goed laat voelen en ik anderen graag wil helpen hetzelfde te ervaren. In mijn eerste jaar was ik onzeker, ook al kwam ik soms zelfverzekerd over. Ik ging uitdagingen aan, maar hoorde bij feedback vooral wat ik zelf wilde horen.",
+    "Tijdens mijn tweede studiejaar maakte ik een moeilijke periode door waardoor mijn opleiding tijdelijk op een lager pitje kwam te staan. Die periode leerde mij anders naar mezelf te kijken, geduldiger te zijn en hulp en feedback meer toe te laten.",
+    "Toen ik mijn studie weer volledig oppakte, besefte ik steeds meer dat ik niet alles direct goed hoef te kunnen. Die houding neem ik mee in mijn begeleiding van leerlingen: vertrouwen geven, kleine stappen zien en ruimte bieden om te proberen."
+],
+
+  professionalProfile: [
+    {
+        "tag": "Doorzettingsvermogen",
+        "title": "Blijven zoeken naar een volgende stap",
+        "text": "Ik heb ervaren dat ontwikkeling niet vanzelfsprekend is. Wanneer iets niet lukt, probeer ik te zoeken naar een haalbare volgende stap in plaats van het daarbij te laten."
+    },
+    {
+        "tag": "Gevoeligheid",
+        "title": "Zien wat een leerling nodig heeft",
+        "text": "Ik merk het op wanneer leerlingen onzeker worden of spanning ervaren. Door eerst contact te maken en goed te luisteren, kan ik beter aansluiten bij wat een leerling nodig heeft om te durven proberen."
+    },
+    {
+        "tag": "Maatschappelijke betrokkenheid",
+        "title": "Verder kijken dan de gymzaal",
+        "text": "Bij PU en Gezond & Fit heb ik ervaren dat bewegen samenhangt met gezondheid, kansen en de omgeving van een kind. Ik wil mij ook buiten de reguliere gymles inzetten voor toegankelijk bewegen."
+    }
+],
+
+  studentStory: [
+    "Een ervaring die mij als gymdocent is bijgebleven, is die met een leerling die ik hier Pietje noem. In groep 5 lukte het hem bijna om een koprol te maken, maar zijn angst hield hem tegen. Een jaar later kwam ik hem opnieuw tegen tijdens mijn stage.",
+    "Ik daagde hem uit om de koprol alsnog te overwinnen. Hij wilde het proberen, maar werd al snel emotioneel. In plaats van hem te blijven aansporen, ging ik met hem in gesprek over angst, durven en zijn favoriete spel Fortnite. Vervolgens kozen we een andere vergelijkbare uitdaging: een duikeling aan de rekstok.",
+    "Die stap durfde hij uiteindelijk te zetten. Het ging zelfs zo goed dat hij daarna ook de koprol durfde te proberen en deze wist uit te voeren.",
+    "Deze ervaring bevestigde voor mij hoe belangrijk zelfvertrouwen is bij het leren bewegen. Soms heeft een leerling niet méér uitleg nodig, maar iemand die zijn onzekerheid ziet, vertrouwen geeft en samen met hem een haalbare eerste stap vindt.",
+    "Als docent wil ik leerlingen die ruimte blijven geven. Niet alleen omdat ze daardoor beter leren bewegen, maar ook omdat ze ontdekken dat ze meer kunnen dan ze zelf denken."
+],
+
+  nextSteps: [
+    {
+        "tag": "Stap 1 · Eerste werkjaar",
+        "title": "Bewust blijven ontwikkelen",
+        "text": "Als startende vakleerkracht LO wil ik regelmatig gerichte feedback vragen aan collega’s. Per periode kies ik een haalbaar ontwikkeldoel en kijk ik met praktijkvoorbeelden terug op wat in mijn handelen verandert."
+    },
+    {
+        "tag": "Stap 2 · Leefstijlcoaching",
+        "title": "Mijn minor verder benutten",
+        "text": "Ik wil onderzoeken welke aanvullende scholing en samenwerking nodig zijn om als leefstijlcoach binnen of naast GLI-teams te werken. Op termijn wil ik de mogelijkheden voor een eigen praktijk verkennen."
+    },
+    {
+        "tag": "Stap 3 · Maatschappelijke projecten",
+        "title": "School en buurt verbinden",
+        "text": "Ik wil actief verkennen welke rol ik kan spelen in lokale beweeg- en gezondheidsinitiatieven zoals PU, naast mijn werk in het primair onderwijs."
+    }
+],
+
+  yearTimeline: [
+    {
+        "period": "September / oktober",
+        "title": "Veilige en passende activiteiten organiseren",
+        "text": "Ik was vooral bezig met het neerzetten van duidelijke activiteiten, korte technische aanwijzingen en leren differentiëren binnen activiteiten."
+    },
+    {
+        "period": "November / december",
+        "title": "Spelbeleving en positief gedrag",
+        "text": "Ik leerde spelbeleving, rollen en positieve bekrachtiging bewuster in te zetten. Mijn aandacht verschoof van alleen corrigeren naar ook gewenst gedrag versterken."
+    },
+    {
+        "period": "Januari / februari",
+        "title": "Terug naar de basis",
+        "text": "Ik werkte aan een rustige lesstart, duidelijke verwachtingen, consequent handelen, preventief handelen, korte uitleg en het benoemen van het lesdoel."
+    },
+    {
+        "period": "Maart",
+        "title": "Tijdmanagement",
+        "text": "Ik ging bewuster werken met mijn horloge, uitleg met een duidelijke tijdsgrens, speelrondes en korte wisselmomenten."
+    },
+    {
+        "period": "April",
+        "title": "Uitstappen en analyseren",
+        "text": "Ik werkte aan professionele rust: eerst kijken, analyseren en daarna handelen. Ook leerde ik sneller aanpassen wanneer activiteiten niet goed liepen."
+    },
+    {
+        "period": "Mei / einde schooljaar",
+        "title": "Doelgericht coachen",
+        "text": "Ik nam eerst overzicht, keek of alle vakken veilig liepen en coachte daarna gerichter bij het hoofdlesdoel. Mijn begeleiding werd meer afgestemd op individuele niveaus."
+    }
+],
 
   conclusion: [
-    "LUK 9 en LUK 10 komen samen in mijn professionele identiteit. Mijn visie op sport en bewegen is dat bewegingsonderwijs een plek moet zijn waar leerlingen motorisch, sociaal-emotioneel en persoonlijk kunnen groeien.",
-    "Mijn handelen laat steeds meer zien waar ik voor sta: leerlingen zien, veiligheid bieden, duidelijke kaders stellen, positieve ontwikkeling stimuleren en reflecteren op mijn eigen rol.",
-    "Mijn ontwikkeling richting startbekwaam handelen zit vooral in het stabiel maken van mijn basis. Wanneer ik mijn betrokkenheid kan combineren met duidelijke routines, doelgerichte feedback, positieve bekrachtiging en sneller ingrijpen waar nodig, kan ik leerlingen beter begeleiden in hun ontwikkeling."
-  ]
+    "Mijn ALO-ontwikkeling begon vanuit plezier in sporten en de wens anderen datzelfde gevoel te geven. Ik heb geleerd dat een docent ook zelf onzeker mag zijn, fouten mag maken en gericht kan blijven groeien door feedback serieus te nemen.",
+    "In het afstudeerjaar werd duidelijk dat goed lesgeven, toetsen, onderzoeken, organiseren en adviseren samenhangen. Ik leerde kleinere doelen stellen, beter kijken naar wat gegevens werkelijk zeggen en mijn rol binnen een onderwijsteam bewuster innemen.",
+    "Professioneel handelen betekent voor mij niet dat ik overal de beste in moet zijn. Het betekent dat ik mijn verantwoordelijkheid neem, mijn werk met toewijding uitvoer, opensta voor nieuwe inzichten en leerlingen het vertrouwen geef om te proberen en verder te groeien."
+],
 };
 
 function renderParagraphs(elementId, paragraphs) {
@@ -172,6 +303,13 @@ renderTimeline("timeline", content.timeline);
 renderCards("feedbackCards", content.feedback);
 renderParagraphs("futureText", content.future);
 renderParagraphs("conclusionText", content.conclusion);
+renderParagraphs("personalJourneyText", content.personalJourney);
+renderCards("broadDevelopmentCards", content.broadDevelopment);
+renderParagraphs("dashboardReflectionText", content.dashboardReflection);
+renderTimeline("yearTimeline", content.yearTimeline);
+renderCards("professionalProfileCards", content.professionalProfile);
+renderParagraphs("studentStoryText", content.studentStory);
+renderCards("nextStepsCards", content.nextSteps);
 
 const menuButton = document.getElementById("menuButton");
 const navLinks = document.getElementById("navLinks");
