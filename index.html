@@ -4,18 +4,20 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Portfolio Cees ALO | LUK 9 & 10</title>
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css?v=20261111" />
 </head>
 <body id="top">
   <header class="hero">
     <nav class="nav">
       <a class="logo" href="#top">Portfolio Cees ALO</a>
-      <button class="menu-button" id="menuButton" aria-label="Menu openen">☰</button>
+      <button class="menu-button" id="menuButton" aria-label="Menu openen" aria-expanded="false" aria-controls="navLinks">☰</button>
       <div class="nav-links" id="navLinks">
         <a href="#visie">Visie</a>
         <a href="#luk9">LUK 9</a>
         <a href="#luk10">LUK 10</a>
         <a href="#ontwikkeling">Ontwikkeling</a>
+        <a href="#bewijskaarten">Praktijkbewijs</a>
+        <a href="#profilering">Profilering</a>
         <a href="#toekomst">Toekomst</a>
       </div>
     </nav>
@@ -66,15 +68,50 @@
       <div class="card-grid" id="luk10Cards"></div>
     </section>
 
+    <section class="section alt" id="persoonlijke-ontwikkeling">
+      <div class="section-heading"><p class="eyebrow">LUK 10.1 · Achtergrond</p><h2>Wat mij heeft gevormd</h2></div>
+      <div class="text-block" id="personalJourneyText"></div>
+    </section>
+
     <section class="section" id="ontwikkeling">
       <div class="section-heading">
         <p class="eyebrow">Planmatige ontwikkeling</p>
-        <h2>Van organiseren naar doelgericht lesgeven</h2>
+        <h2>Van onzeker beginnen naar bewust ontwikkelen</h2>
       </div>
       <div class="timeline" id="timeline"></div>
       <p class="closing-statement">
-        Mijn ontwikkeling ging van vooral activiteiten organiseren en orde houden naar doelgericht, planmatig en professioneel rustig lesgeven.
+        Mijn ontwikkeling gaat over meer dan lesgeven: van feedback leren ontvangen tot samenwerken, onderzoeken, organiseren en doelgericht handelen.
       </p>
+    </section>
+
+    <section class="section alt" id="brede-ontwikkeling">
+      <div class="section-heading"><p class="eyebrow">LUK 10.1 · Alle leergebieden</p><h2>Mijn ontwikkeling voorbij het lesgeven</h2><p>Onderzoeken, ontwerpen, toetsen, samenwerken, adviseren en een eigen visie ontwikkelen.</p></div>
+      <div class="card-grid" id="broadDevelopmentCards"></div>
+    </section>
+
+
+    <section class="section" id="bewijskaarten">
+      <div class="section-heading">
+        <p class="eyebrow">LUK 10.1 en 10.2 · Praktijkbewijs</p>
+        <h2>Ontwikkelmomenten die mijn handelen hebben veranderd</h2>
+        <p>De kern van mijn ontwikkeling staat hierboven. In deze negen uitklapbare kaarten laat ik per leergebied zien wat ik meemaakte, wat ik anders ben gaan doen en welk bewijsproduct daarbij hoort.</p>
+      </div>
+      <div class="bewijs-toolbar">
+        <button type="button" id="openAllEvidence" class="bewijs-button">Alle kaarten openen</button>
+        <button type="button" id="closeAllEvidence" class="bewijs-button secondary">Alle kaarten sluiten</button>
+      </div>
+      <div class="bewijs-grid" id="evidenceCards"></div>
+      <p class="bewijs-disclaimer">Privacy: de bewijsproducten worden hier alleen bij naam genoemd. Originele beoordelingen, leerlinggegevens en interne documenten worden niet openbaar gedeeld. De volledige producten kunnen via een door de opleiding goedgekeurde, afgeschermde route met de beoordelaar worden besproken.</p>
+    </section>
+
+    <section class="section" id="lesontwikkeling">
+      <div class="section-heading"><p class="eyebrow">LUK 10.1 · Uit de praktijk</p><h2>Kleinere leerstappen tijdens mijn afstudeerjaar</h2></div>
+      <div class="timeline" id="yearTimeline"></div>
+    </section>
+
+    <section class="section alt" id="ejournal">
+      <div class="section-heading"><p class="eyebrow">LUK 10.1 · Kritische reflectie</p><h2>eJournal, plannen en verantwoordelijkheid</h2></div>
+      <div class="text-block" id="dashboardReflectionText"></div>
     </section>
 
     <section class="section alt">
@@ -85,12 +122,28 @@
       <div class="card-grid two" id="feedbackCards"></div>
     </section>
 
+    <section class="section alt" id="profilering">
+      <div class="section-heading"><p class="eyebrow">LUK 10.2 · Mijn profiel</p><h2>Waarin ik mij onderscheid</h2><p>Doorzettingsvermogen, gevoeligheid en maatschappelijke betrokkenheid.</p></div>
+      <div class="card-grid" id="professionalProfileCards"></div>
+    </section>
+
+    <section class="section" id="praktijkvoorbeeld">
+      <div class="section-heading"><p class="eyebrow">LUK 10.2 · Praktijkvoorbeeld</p><h2>Een leerling die weer durfde</h2></div>
+      <div class="text-block" id="studentStoryText"></div>
+      <p class="privacy-note">Pietje is een fictieve naam om de leerling niet herkenbaar te maken.</p>
+    </section>
+
     <section class="section" id="toekomst">
       <div class="section-heading">
         <p class="eyebrow">Toekomst</p>
         <h2>Mijn toekomstige rol in het werkveld</h2>
       </div>
       <div class="text-block" id="futureText"></div>
+    </section>
+
+    <section class="section alt" id="vervolgstappen">
+      <div class="section-heading"><p class="eyebrow">LUK 10.2 · Vooruitkijken</p><h2>Mijn volgende professionele stappen</h2></div>
+      <div class="card-grid" id="nextStepsCards"></div>
     </section>
 
     <section class="section conclusion">
@@ -107,6 +160,6 @@
     <a href="#top">Terug naar boven</a>
   </footer>
 
-  <script src="script.js"></script>
+  <script src="script.js?v=20261111"></script>
 </body>
 </html>
