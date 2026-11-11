@@ -281,8 +281,6 @@ const content = {
                 "Ik merkte dat een heldere beginsituatie en concrete succescriteria helpen om keuzes in een les te verantwoorden. Een belangrijke vervolgstap is dat ik bij het ontwerpen meteen bedenk hoe ik die afzonderlijke criteria later zichtbaar ga beoordelen. Dat bleek tijdens LUK 3 nog niet voldoende geborgd."
             ]
         ],
-        "evidence": "LUK1_Final(1).docx – analyse van groep 7A, lesdoelen, nulmeting en lessenreeks.",
-        "limit": "Het eindontwerp laat mijn aanpak zien; voor een vergelijking met mijn eerdere ontwerpen is aanvullende oudere feedback nodig."
     },
     {
         "tag": "LUK 2 · Uitvoeren",
@@ -302,8 +300,6 @@ const content = {
                 "Uit de lesfeedback blijkt dat consequent handelen, positionering en instructie regelmatig aandacht vroegen. Ik leerde daardoor bewuster te kijken naar mijn plaats in de zaal, duidelijke verwachtingen vooraf en het benoemen van gewenst gedrag. Ik ben hierin gegroeid, maar zie consequent handelen als een vaardigheid die onderhoud vraagt."
             ]
         ],
-        "evidence": "Lesgeef doelen WK1tm3.docx + Feedback Cees (1)(1).docx – eigen doelen en terugkoppeling op het lesgeven.",
-        "limit": "De doelen tonen voornemens; de begeleidersfeedback is nodig om de feitelijke uitvoering te beoordelen."
     },
     {
         "tag": "LUK 3 · Toetsen en evalueren",
@@ -327,8 +323,6 @@ const content = {
                 "Ik wil bij een volgende toetsing de afzonderlijke criteria op een kijkkaart zetten, meerdere observatiemomenten gebruiken en vooraf controleren of mijn meetinstrument werkelijk past bij het doel. Zo wordt toetsing niet alleen een eindscore, maar ook bruikbare informatie voor de volgende les."
             ]
         ],
-        "evidence": "LUK3_Cees_Final.docx – toetsopzet, groepsresultaten en kritische evaluatie.",
-        "limit": "De percentages beschrijven de gehanteerde niveaus en bewijzen niet afzonderlijk dat twee van drie succescriteria behaald zijn."
     },
     {
         "tag": "LUK 4 · Onderzoeken",
@@ -352,8 +346,6 @@ const content = {
                 "Dit inzicht gebruikte ik bij het formuleren van concrete aanbevelingen. In plaats van het gehele aanbod te veranderen, kon ik gericht kijken naar de informatievoorziening, het samen met anderen gaan en de route via ouders en school."
             ]
         ],
-        "evidence": "PU-onderzoeksverslag LUK 4 – onderzoeksopzet, vragenlijst, analyses en aanbevelingen.",
-        "limit": "Een definitief bronbestand van het onderzoek moet voor de beoordelaar afzonderlijk beschikbaar zijn; ik publiceer hier geen individuele leerlingreacties."
     },
     {
         "tag": "LUK 5 · Implementeren",
@@ -377,8 +369,6 @@ const content = {
                 "Ik heb een concreet uitvoerings- en evaluatieplan ontwikkeld. Dat is iets anders dan aantonen dat er daarna daadwerkelijk meer leerlingen aan PU zijn gaan deelnemen."
             ]
         ],
-        "evidence": "Draaiboek_De_Werf_PU_evaluatie_vastgelegd.docx – taken, planning, informatievoorziening en evaluatie.",
-        "limit": "Het document onderbouwt de uitvoerbaarheid op papier; een effect op deelname is daarmee nog niet vastgesteld."
     },
     {
         "tag": "LUK 6 en 7 · Project en evaluatie",
@@ -402,8 +392,6 @@ const content = {
                 "Bij een volgend project wil ik vooraf rollen verdelen, helpers kort briefen en tijdens de uitvoering gerichter controleren of iedereen weet wat er verwacht wordt. Zo kan ik niet alleen een programma bedenken, maar ook de uitvoering beter begeleiden."
             ]
         ],
-        "evidence": "Collega feedback luk 8(1).docx + eigen minilessen, speurtocht en programma Koningsspelen.",
-        "limit": "De feedback ondersteunt mijn initiatief; een aparte volledige projectevaluatie zou de opbrengsten nog beter onderbouwen."
     },
     {
         "tag": "LUK 8 · Samenwerken",
@@ -427,8 +415,6 @@ const content = {
                 "Ik wil mijn positie in een team blijven versterken door eerder verwachtingen uit te spreken, afspraken terug te koppelen en ook in drukke perioden zichtbaar verantwoordelijkheid te nemen."
             ]
         ],
-        "evidence": "Collega feedback luk 8(1).docx – terugkoppeling over initiatief, samenwerking en rol in het team.",
-        "limit": "Dat ik als gelijkwaardige collega werd benaderd is mijn eigen ervaring; ik presenteer dit niet als een formeel oordeel van alle groepsleerkrachten."
     },
     {
         "tag": "LUK 9 · Pedagogische visie",
@@ -452,8 +438,6 @@ const content = {
                 "Ik wil leerlingen blijven uitdagen, maar zonder hun emoties te negeren. Voor mij is de combinatie van veiligheid, persoonlijke aandacht en een haalbare uitdaging de basis voor succeservaringen."
             ]
         ],
-        "evidence": "Praktijkreflectie ‘Een leerling die weer durfde’ + kernkwadrant docent LO.",
-        "limit": "Dit is mijn eigen praktijkreflectie. De naam is fictief; er zijn geen foto’s, leerlingdossiers of andere herleidbare gegevens toegevoegd."
     },
     {
         "tag": "LUK 9 · Professionele afweging",
@@ -477,8 +461,6 @@ const content = {
                 "Ik wil zulke situaties bewuster vastleggen met de keuze die ik maakte, de reactie van leerlingen en feedback van een begeleider. Dan kan ik mijn visie ook bij moeilijke afwegingen steeds beter onderbouwen."
             ]
         ],
-        "evidence": "LUK 9-visiereflectie en uitgewerkte casus over veiligheid/uitdaging, indien opgenomen in het afgeschermde beoordelingsdossier.",
-        "limit": "Deze kaart verwoordt een professionele afweging; zonder afzonderlijke casusregistratie is dit geen onafhankelijk aangetoond effect van een specifieke les."
     }
 ]
 ,
@@ -560,8 +542,6 @@ function renderEvidenceCards(cards) {
             <p>${escapeEvidenceHTML(body)}</p>
           </div>
         `).join('')}
-        <div class="bewijs-source"><strong>Onderbouwing in mijn beoordelingsdossier</strong><p>${escapeEvidenceHTML(card.evidence)}</p></div>
-        <p class="bewijs-caveat"><strong>Wat dit bewijs niet aantoont:</strong> ${escapeEvidenceHTML(card.limit)}</p>
       </div>
     </details>
   `).join('');
