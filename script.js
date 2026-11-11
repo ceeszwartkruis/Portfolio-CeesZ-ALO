@@ -261,6 +261,227 @@ const content = {
     }
 ],
 
+
+  evidenceCards: [
+    {
+        "tag": "LUK 1 · Ontwerpen",
+        "title": "Van een leuke activiteit naar een doelgericht lesontwerp",
+        "summary": "Mijn lessenreeks voor groep 7A leerde mij om te starten bij wat leerlingen nodig hebben, niet bij wat ik zelf leuk vind om aan te bieden.",
+        "sections": [
+            [
+                "Beginsituatie",
+                "Bij het ontwerpen van bewegingsonderwijs lag mijn aandacht in eerste instantie vaak op de activiteit: is deze leuk, loopt deze goed en kan iedereen meedoen? Tijdens mijn afstudeerstage wilde ik preciezer leren bepalen wat leerlingen in een reeks daadwerkelijk moesten ontwikkelen."
+            ],
+            [
+                "Concrete ervaring en handelen",
+                "Voor groep 7A ontwierp ik zes lessen rond positiespel. Ik gebruikte een nulmeting met lummelen/eindvakbal en keek naar vrijlopen, om de bal vragen en verdedigen. Vervolgens koppelde ik werkvormen, differentiatie en aanwijzingen aan deze drie aandachtspunten."
+            ],
+            [
+                "Inzicht en vervolg",
+                "Ik merkte dat een heldere beginsituatie en concrete succescriteria helpen om keuzes in een les te verantwoorden. Een belangrijke vervolgstap is dat ik bij het ontwerpen meteen bedenk hoe ik die afzonderlijke criteria later zichtbaar ga beoordelen. Dat bleek tijdens LUK 3 nog niet voldoende geborgd."
+            ]
+        ],
+        "evidence": "LUK1_Final(1).docx – analyse van groep 7A, lesdoelen, nulmeting en lessenreeks.",
+        "limit": "Het eindontwerp laat mijn aanpak zien; voor een vergelijking met mijn eerdere ontwerpen is aanvullende oudere feedback nodig."
+    },
+    {
+        "tag": "LUK 2 · Uitvoeren",
+        "title": "Consequent handelen zonder de relatie te verliezen",
+        "summary": "Ik leerde dat duidelijk gedrag begeleiden niet betekent dat ik alleen corrigeer, maar ook positief gedrag bewust zichtbaar maak.",
+        "sections": [
+            [
+                "Beginsituatie",
+                "In de gymzaal wilde ik leerlingen ruimte en vertrouwen geven. Tegelijkertijd merkte ik dat ik consequenter moest zijn in het bewaken van afspraken, het aanbrengen van rust en het vasthouden aan mijn eigen grenzen."
+            ],
+            [
+                "Concrete actie",
+                "In mijn doelen voor 5 tot en met 23 januari nam ik mij voor waarschuwingen overzichtelijk bij te houden met een schriftje. Daarnaast wilde ik leerlingen die veilig en betrokken deelnamen vaker positieve aandacht geven, juist om niet voortdurend bezig te zijn met storend gedrag."
+            ],
+            [
+                "Feedback en ontwikkeling",
+                "Uit de lesfeedback blijkt dat consequent handelen, positionering en instructie regelmatig aandacht vroegen. Ik leerde daardoor bewuster te kijken naar mijn plaats in de zaal, duidelijke verwachtingen vooraf en het benoemen van gewenst gedrag. Ik ben hierin gegroeid, maar zie consequent handelen als een vaardigheid die onderhoud vraagt."
+            ]
+        ],
+        "evidence": "Lesgeef doelen WK1tm3.docx + Feedback Cees (1)(1).docx – eigen doelen en terugkoppeling op het lesgeven.",
+        "limit": "De doelen tonen voornemens; de begeleidersfeedback is nodig om de feitelijke uitvoering te beoordelen."
+    },
+    {
+        "tag": "LUK 3 · Toetsen en evalueren",
+        "title": "Niet alleen scores bekijken, maar eerlijk interpreteren",
+        "summary": "Mijn nul- en eindmeting lieten vooruitgang zien, maar maakten ook duidelijk dat mijn oorspronkelijke toetsing niet precies aansloot op mijn doel.",
+        "sections": [
+            [
+                "Beginsituatie",
+                "Ik wilde weten of de leerlingen van groep 7A beter waren geworden in positiespel. Mijn doel was dat minimaal 70% van de groep twee van drie succescriteria meerdere keren goed zou toepassen."
+            ],
+            [
+                "Concreet resultaat",
+                "Bij de nulmeting zaten 12 van de 24 leerlingen op niveau 2 of 3 (50%). Bij de eindmeting waren dat 14 van de 24 (58,3%). Negen leerlingen stegen minimaal één niveau. Het beoogde groepsresultaat van 70% werd dus niet gehaald."
+            ],
+            [
+                "Kritische ontdekking",
+                "Ik had per leerling één totaalniveau vastgelegd, terwijl mijn doel ging over drie afzonderlijke aandachtspunten. Daardoor kon ik achteraf niet precies aantonen of leerlingen twee van de drie criteria beheersten. Die beperking heb ik expliciet benoemd in mijn evaluatie."
+            ],
+            [
+                "Wat ik anders wil doen",
+                "Ik wil bij een volgende toetsing de afzonderlijke criteria op een kijkkaart zetten, meerdere observatiemomenten gebruiken en vooraf controleren of mijn meetinstrument werkelijk past bij het doel. Zo wordt toetsing niet alleen een eindscore, maar ook bruikbare informatie voor de volgende les."
+            ]
+        ],
+        "evidence": "LUK3_Cees_Final.docx – toetsopzet, groepsresultaten en kritische evaluatie.",
+        "limit": "De percentages beschrijven de gehanteerde niveaus en bewijzen niet afzonderlijk dat twee van drie succescriteria behaald zijn."
+    },
+    {
+        "tag": "LUK 4 · Onderzoeken",
+        "title": "Van een groot probleem naar een onderzoekbare vraag",
+        "summary": "Ik moest leren om de deelname aan buitenschools bewegen niet als één groot probleem te willen oplossen.",
+        "sections": [
+            [
+                "Beginsituatie",
+                "Aanvankelijk wilde ik met mijn PU-onderzoek een groot maatschappelijk probleem aanpakken. Daardoor dacht ik te breed en vond ik het lastig om mijn onderzoek een duidelijke richting te geven."
+            ],
+            [
+                "Concrete verandering",
+                "Ik richtte mijn onderzoek vervolgens op de deelnamebereidheid van leerlingen uit groep 6A en 6B: interesse en plezier, ervaren drempels en voorwaarden die deelname gemakkelijker kunnen maken. Met een anonieme vragenlijst bij 40 leerlingen kon ik gerichter gegevens verzamelen."
+            ],
+            [
+                "Inzicht",
+                "Ik ontdekte dat onderzoek niet automatisch een allesomvattende oplossing hoeft te bieden. Ik moet onderscheid maken tussen wat leerlingen antwoorden, hoe ik die gegevens interpreteer en welke conclusies binnen de grenzen van mijn onderzoek gerechtvaardigd zijn."
+            ],
+            [
+                "Doorwerking",
+                "Dit inzicht gebruikte ik bij het formuleren van concrete aanbevelingen. In plaats van het gehele aanbod te veranderen, kon ik gericht kijken naar de informatievoorziening, het samen met anderen gaan en de route via ouders en school."
+            ]
+        ],
+        "evidence": "PU-onderzoeksverslag LUK 4 – onderzoeksopzet, vragenlijst, analyses en aanbevelingen.",
+        "limit": "Een definitief bronbestand van het onderzoek moet voor de beoordelaar afzonderlijk beschikbaar zijn; ik publiceer hier geen individuele leerlingreacties."
+    },
+    {
+        "tag": "LUK 5 · Implementeren",
+        "title": "Een aanbeveling omzetten in iets dat uitvoerbaar is",
+        "summary": "Bij PU leerde ik dat een goede analyse pas waarde krijgt als de praktijkverbetering past bij de mensen die haar moeten uitvoeren.",
+        "sections": [
+            [
+                "Aanleiding",
+                "Uit mijn analyse kwam naar voren dat duidelijke informatie over het bestaande PU-aanbod een belangrijk verbeterpunt was. Ik koos er bewust voor om de verbetering vooral daarop te richten, in plaats van een volledig nieuw sportprogramma te ontwerpen."
+            ],
+            [
+                "Concrete uitwerking",
+                "Ik werkte een aanpak uit met een actuele flyer, een korte introductie aan het einde van de gymles en communicatie met ouders via bestaande schoolkanalen. In het draaiboek beschreef ik ook wie bij De Werf en PU verantwoordelijk is voor het bijwerken en verspreiden van informatie."
+            ],
+            [
+                "Wat dit mij leerde",
+                "Een advies is nog geen implementatie. Ik moet nadenken over rollen, timing, overdraagbaarheid en de vraag of een organisatie het zonder mij kan herhalen. Daarom zijn taken in het draaiboek aan functies gekoppeld en niet alleen aan mij persoonlijk."
+            ],
+            [
+                "Grenzen van het resultaat",
+                "Ik heb een concreet uitvoerings- en evaluatieplan ontwikkeld. Dat is iets anders dan aantonen dat er daarna daadwerkelijk meer leerlingen aan PU zijn gaan deelnemen."
+            ]
+        ],
+        "evidence": "Draaiboek_De_Werf_PU_evaluatie_vastgelegd.docx – taken, planning, informatievoorziening en evaluatie.",
+        "limit": "Het document onderbouwt de uitvoerbaarheid op papier; een effect op deelname is daarmee nog niet vastgesteld."
+    },
+    {
+        "tag": "LUK 6 en 7 · Project en evaluatie",
+        "title": "Van ideeën aandragen naar het organiseren van Gezond & Fit",
+        "summary": "Ik maakte eigen onderdelen van het programma en droeg verantwoordelijkheid voor de Koningsspelen.",
+        "sections": [
+            [
+                "Mijn uitdaging",
+                "Ik vond het eerder lastig om in een team duidelijk van mijzelf te laten horen en de leiding vast te houden. De Gezond & Fit weken boden de kans om hier daadwerkelijk mee te oefenen."
+            ],
+            [
+                "Mijn bijdrage",
+                "Ik bracht ideeën in voor een speurtocht en voor de Gezond & Fit-minilessen en werkte deze zelf uit. Daarnaast nam ik verantwoordelijkheid voor het organiseren en leiden van de Koningsspelen voor de bovenbouw. Mijn stagebegeleidster en ik waren gedurende het project centrale aanspreekpunten."
+            ],
+            [
+                "Feedback en kritische reflectie",
+                "Collegafeedback bevestigt mijn initiatief bij de minilessen en de Koningsspelen. Tegelijkertijd kwam naar voren dat ik helpers bij een activiteit duidelijker vooraf had kunnen instrueren. Dat is voor mij een belangrijk onderscheid: initiatief nemen lukte, maar leidinggeven vraagt ook verwachtingen uitspreken en taken controleren."
+            ],
+            [
+                "Meenemen naar volgende projecten",
+                "Bij een volgend project wil ik vooraf rollen verdelen, helpers kort briefen en tijdens de uitvoering gerichter controleren of iedereen weet wat er verwacht wordt. Zo kan ik niet alleen een programma bedenken, maar ook de uitvoering beter begeleiden."
+            ]
+        ],
+        "evidence": "Collega feedback luk 8(1).docx + eigen minilessen, speurtocht en programma Koningsspelen.",
+        "limit": "De feedback ondersteunt mijn initiatief; een aparte volledige projectevaluatie zou de opbrengsten nog beter onderbouwen."
+    },
+    {
+        "tag": "LUK 8 · Samenwerken",
+        "title": "Mijn plek vinden als collega binnen een onderwijsteam",
+        "summary": "Ik merkte dat groepsleerkrachten mij niet alleen als stagiair, maar steeds vaker als aanspreekpunt bij de uitvoering benaderden.",
+        "sections": [
+            [
+                "Beginsituatie",
+                "In een onderwijsteam moest ik leren om niet alleen mijn eigen lessen goed uit te voeren, maar ook informatie te delen, om hulp te vragen en verantwoordelijkheid in de samenwerking te nemen."
+            ],
+            [
+                "Concrete ervaring",
+                "Tijdens de Gezond & Fit weken waren mijn begeleidster en ik beiden aanspreekpunt voor groepsleerkrachten. Collega’s kwamen ook naar mij toe met praktische vragen. Ik ervoer dat als een verschuiving in mijn rol: ik werd meer betrokken bij gezamenlijke keuzes en uitvoering."
+            ],
+            [
+                "Wat ik hiervan leerde",
+                "De samenwerking liet mij zien dat professionaliteit niet betekent dat ik alles zelfstandig moet oplossen. Ik kan mijn eigen ideeën inbrengen en tegelijk luisteren naar ervaringen van collega’s. Juist het bespreken van wat werkt, wat misgaat en wat anders kan, leverde nieuwe inzichten op."
+            ],
+            [
+                "Blijvend ontwikkelpunt",
+                "Ik wil mijn positie in een team blijven versterken door eerder verwachtingen uit te spreken, afspraken terug te koppelen en ook in drukke perioden zichtbaar verantwoordelijkheid te nemen."
+            ]
+        ],
+        "evidence": "Collega feedback luk 8(1).docx – terugkoppeling over initiatief, samenwerking en rol in het team.",
+        "limit": "Dat ik als gelijkwaardige collega werd benaderd is mijn eigen ervaring; ik presenteer dit niet als een formeel oordeel van alle groepsleerkrachten."
+    },
+    {
+        "tag": "LUK 9 · Pedagogische visie",
+        "title": "Zelfvertrouwen als voorwaarde om te durven leren",
+        "summary": "Het verhaal van Pietje laat zien waarom ik liever een haalbare tussenstap zoek dan een leerling over een drempel heen duw.",
+        "sections": [
+            [
+                "Mijn overtuiging",
+                "Bij VDZ en tijdens mijn stages werd voor mij steeds duidelijker dat kinderen kunnen groeien wanneer ze vertrouwen krijgen en mogen proberen. Niet iedere leerling heeft dezelfde uitdaging of dezelfde hoeveelheid aanmoediging nodig."
+            ],
+            [
+                "Concrete praktijksituatie",
+                "Een leerling die ik hier Pietje noem, durfde in groep 5 nog geen koprol, al was het bijna gelukt. Een jaar later daagde ik hem opnieuw uit. Toen hij emotioneel werd, ging ik met hem in gesprek over angst, durven en zijn favoriete spel Fortnite. We kozen vervolgens een vergelijkbare uitdaging: een duikeling aan de rekstok."
+            ],
+            [
+                "Resultaat en betekenis",
+                "De duikeling lukte en gaf hem zoveel vertrouwen dat hij daarna ook de koprol durfde te maken. Deze ervaring bevestigde voor mij hoe waardevol het is om de onzekerheid van een leerling te herkennen en samen een haalbare stap te kiezen."
+            ],
+            [
+                "Mijn handelen als docent",
+                "Ik wil leerlingen blijven uitdagen, maar zonder hun emoties te negeren. Voor mij is de combinatie van veiligheid, persoonlijke aandacht en een haalbare uitdaging de basis voor succeservaringen."
+            ]
+        ],
+        "evidence": "Praktijkreflectie ‘Een leerling die weer durfde’ + kernkwadrant docent LO.",
+        "limit": "Dit is mijn eigen praktijkreflectie. De naam is fictief; er zijn geen foto’s, leerlingdossiers of andere herleidbare gegevens toegevoegd."
+    },
+    {
+        "tag": "LUK 9 · Professionele afweging",
+        "title": "Veiligheid en uitdaging zijn geen tegenpolen",
+        "summary": "Bij lastige lessituaties wil ik bewust afwegen wanneer ik begrens en wanneer ik leerlingen ruimte geef om te proberen.",
+        "sections": [
+            [
+                "Dilemma",
+                "Binnen bewegingsonderwijs kom ik situaties tegen waarin uitdaging en veiligheid spanning kunnen opleveren. Bij zelfverdedigingsactiviteiten, zoals kickboksen, betekent dat bijvoorbeeld dat ik leerlingen wil laten ervaren wat lichaamscontact en grenzen zijn, zonder dat het onveilig wordt."
+            ],
+            [
+                "Mijn afweging",
+                "Ik vind het belangrijk dat leerlingen niet alleen worden beschermd tegen iedere uitdaging. Tegelijkertijd moet ik duidelijke regels stellen, grenzen respecteren en ingrijpen wanneer leerlingen onvoldoende controle hebben. Hetzelfde uitgangspunt speelt bij succeservaringen in spellen zoals hindernisslagbal: de opdracht moet prikkelen, maar wel bereikbaar blijven."
+            ],
+            [
+                "Wat dit over mij zegt",
+                "Mijn visie is niet alleen dat leerlingen plezier moeten hebben. Ik moet mijn pedagogische keuzes kunnen uitleggen en soms mijn oorspronkelijke activiteit aanpassen aan de groep. Warm en duidelijk handelen horen voor mij bij elkaar."
+            ],
+            [
+                "Vervolg",
+                "Ik wil zulke situaties bewuster vastleggen met de keuze die ik maakte, de reactie van leerlingen en feedback van een begeleider. Dan kan ik mijn visie ook bij moeilijke afwegingen steeds beter onderbouwen."
+            ]
+        ],
+        "evidence": "LUK 9-visiereflectie en uitgewerkte casus over veiligheid/uitdaging, indien opgenomen in het afgeschermde beoordelingsdossier.",
+        "limit": "Deze kaart verwoordt een professionele afweging; zonder afzonderlijke casusregistratie is dit geen onafhankelijk aangetoond effect van een specifieke les."
+    }
+]
+,
   conclusion: [
     "Mijn ALO-ontwikkeling begon vanuit plezier in sporten en de wens anderen datzelfde gevoel te geven. Ik heb geleerd dat een docent ook zelf onzeker mag zijn, fouten mag maken en gericht kan blijven groeien door feedback serieus te nemen.",
     "In het afstudeerjaar werd duidelijk dat goed lesgeven, toetsen, onderzoeken, organiseren en adviseren samenhangen. Ik leerde kleinere doelen stellen, beter kijken naar wat gegevens werkelijk zeggen en mijn rol binnen een onderwijsteam bewuster innemen.",
@@ -311,15 +532,61 @@ renderCards("professionalProfileCards", content.professionalProfile);
 renderParagraphs("studentStoryText", content.studentStory);
 renderCards("nextStepsCards", content.nextSteps);
 
+
+function escapeEvidenceHTML(value) {
+  return String(value).replace(/[&<>"']/g, character => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+  })[character]);
+}
+
+function renderEvidenceCards(cards) {
+  const container = document.getElementById('evidenceCards');
+  if (!container) return;
+  container.innerHTML = cards.map((card, index) => `
+    <details class="bewijs-card">
+      <summary>
+        <span class="bewijs-index">${String(index + 1).padStart(2, '0')}</span>
+        <span class="bewijs-overview">
+          <span class="bewijs-tag">${escapeEvidenceHTML(card.tag)}</span>
+          <strong>${escapeEvidenceHTML(card.title)}</strong>
+          <span class="bewijs-summary">${escapeEvidenceHTML(card.summary)}</span>
+        </span>
+        <span class="bewijs-toggle" aria-hidden="true">+</span>
+      </summary>
+      <div class="bewijs-details">
+        ${card.sections.map(([heading, body]) => `
+          <div class="bewijs-part">
+            <h4>${escapeEvidenceHTML(heading)}</h4>
+            <p>${escapeEvidenceHTML(body)}</p>
+          </div>
+        `).join('')}
+        <div class="bewijs-source"><strong>Onderbouwing in mijn beoordelingsdossier</strong><p>${escapeEvidenceHTML(card.evidence)}</p></div>
+        <p class="bewijs-caveat"><strong>Wat dit bewijs niet aantoont:</strong> ${escapeEvidenceHTML(card.limit)}</p>
+      </div>
+    </details>
+  `).join('');
+
+  document.getElementById('openAllEvidence')?.addEventListener('click', () => {
+    container.querySelectorAll('details').forEach(card => { card.open = true; });
+  });
+  document.getElementById('closeAllEvidence')?.addEventListener('click', () => {
+    container.querySelectorAll('details').forEach(card => { card.open = false; });
+  });
+}
+
+renderEvidenceCards(content.evidenceCards);
+
 const menuButton = document.getElementById("menuButton");
 const navLinks = document.getElementById("navLinks");
 
 menuButton.addEventListener("click", () => {
-  navLinks.classList.toggle("open");
+  const isOpen = navLinks.classList.toggle("open");
+  menuButton.setAttribute("aria-expanded", String(isOpen));
 });
 
 document.querySelectorAll(".nav-links a").forEach(link => {
   link.addEventListener("click", () => {
     navLinks.classList.remove("open");
+    menuButton.setAttribute("aria-expanded", "false");
   });
 });
